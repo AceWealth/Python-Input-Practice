@@ -2,15 +2,15 @@
 
 # Pick the Galaxy to play in
 def choice():
-    # Print the message to the player
-    print("Pick a system \n A). Milky Way \n B). Pegasus")
+    # Print the message to the john
+    print("Pick a slut you'd like to fuck \n A). Monika \n B). LaRanda")
     pickedSystem = input("Pick a system! ")
 
-    # Go through the choices of the player
+    # Go through the choices of the john
     if pickedSystem.lower() == "a":
-        print("You picked the Milky Way system")
+        print("You picked Monika - her phat ass is gonna rock ur world")
     elif pickedSystem.lower() == "b":
-        print("You picked the Pegasus system")
+        print("You picked the LaRanda with the WAP")
     else:
         print("Not a valid choice")
         choice()
